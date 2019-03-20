@@ -1,2 +1,2 @@
-<?php
+Oops, ta strona nie istnieje
 
